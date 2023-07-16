@@ -57,8 +57,8 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 ![0%](https://progress-bar.dev/0/?title=Done)
 
-- [ ] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ]()
-- [ ] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript]()
+- [x] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ]()
+- [x] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript]()
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-68h39m-blue">
@@ -71,15 +71,15 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 - ## ReactJs
 
-- [ ] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)]()
+- [x] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)]()
 
 - ## NodeJs
 
-- [ ] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)]()
+- [x] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)]()
 
 - ## Mern
 
-- [ ] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS]()
+- [x] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS]()
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-109h1m-blue">
