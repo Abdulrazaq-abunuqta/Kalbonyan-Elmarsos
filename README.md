@@ -1,7 +1,8 @@
 # Kalbonyan-Elmarsos
 Kalbonyan-Elmarsos ( Python · Git · JavaScript · CSS · HTML · Cloud Guru · MERN Stack )
-<img src="https://github.com/Abdulrazaq-abunuqta/Kalbonyan-Elmarsos/blob/main/01-Linkedin-Learning/photo_%D9%A2%D9%A0%D9%A2%D9%A2-%D9%A1%D9%A2-%D9%A0%D9%A3_%D9%A2%D9%A1-%D9%A5%D9%A1-%D9%A5%D9%A3.jpg" alt="Kalbonyan-Elmarsos-Logo-3"/>
-/# Kalbonyan-Elmarsos
+<img src="https://github.com/Abdulrazaq-abunuqta/Kalbonyan-Elmarsos/blob/main/01-Linkedin-Learning/photo_%D9%A2%D9%A0%D9%A2%D9%A2-%D9%A1%D9%A2-%D9%A0%D9%A3_%D9%A2%D9%A1-%D9%A5%D9%A1-%D9%A5%D9%A3.jpg" alt="Kalbonyan-Elmarsos-Logo-3" text-align="center"  />
+
+# Kalbonyan-Elmarsos
 # About Kalbonyan Elmarsos
 
 Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help students become better developers and be able to deal and succeed with the global labor market and compete in it with strength and efficiency.
