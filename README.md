@@ -1,7 +1,6 @@
 # Kalbonyan-Elmarsos
 Kalbonyan-Elmarsos ( Python · Git · JavaScript · CSS · HTML · Cloud Guru · MERN Stack )
-<img src="https://github.com/Abdulrazaq-abunuqta/Kalbonyan-Elmarsos/blob/main/01-Linkedin-Learning/photo_%D9%A2%D9%A0%D9%A2%D9%A2-%D9%A1%D9%A2-%D9%A0%D9%A3_%D9%A2%D9%A1-%D9%A5%D9%A1-%D9%A5%D9%A3.jpg" alt="Kalbonyan-Elmarsos-Logo-3" align="center"  />
-
+<p align="center"><img src="https://github.com/Abdulrazaq-abunuqta/Kalbonyan-Elmarsos/blob/main/01-Linkedin-Learning/photo_%D9%A2%D9%A0%D9%A2%D9%A2-%D9%A1%D9%A2-%D9%A0%D9%A3_%D9%A2%D9%A1-%D9%A5%D9%A1-%D9%A5%D9%A3.jpg" alt="Kalbonyan-Elmarsos-logo-3"/></p>
 # Kalbonyan-Elmarsos
 # About Kalbonyan Elmarsos
 
